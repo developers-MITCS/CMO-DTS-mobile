@@ -66,7 +66,7 @@ export default function LoginScreen({navigation}) {
             index: 0,
             routes: [
               {
-                name: 'Main',
+                name: 'HomeScreen',
                 params: {
                   screenlist: 'home',
                 },

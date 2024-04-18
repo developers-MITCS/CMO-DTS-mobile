@@ -250,7 +250,7 @@ export default function DateScreen  ({route,navigation})  {
             index: 0,
             routes: [
               {
-                name: 'main',
+                name: 'HomeScreen',
                 params: {
                   screenlist: 'home',
                 },
